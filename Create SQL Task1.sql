@@ -1,0 +1,1 @@
+copy Employee_Details from 'D:/Download/Employee_Details.csv' DELIMITER ',' csv HEADER;
